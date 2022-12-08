@@ -10,7 +10,7 @@
         "dest": "app.js"
     }],
     "headers": [{
-        "source": "/(.*)",
+        "src": "/(.*)",
         "headers": [{
             "key": "access-control-allow-origin",
             "value": "*"
